@@ -2,7 +2,24 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+
+TABConf is The Atlanta Bitcoin Conference — an event for building communities, providing education, and supporting developers. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin.
+
+What can I expect at TABConf?
+
+Builders Day: a friendly place to learn how to contribute to open-source projects in bitcoin. This is a great one to attend if you hope to work in the bitcoin industry as a developer!
+
+Workshops: Attend great developer-focused bitcoin workshops.
+
+Villages: Speakers, panel discussions, open hackerspace, Capture the Bitcoin, and more.
+
+Afterpartys!
+
+See [last year's website](https://2022.tabconf.com/)for a good sense of what TABConf programming is like.
+
+
+
+
 
 [Link to another page](./another-page.html).
 
