@@ -77,8 +77,15 @@ var fun = function lang(l) {
 
 # Speakers
 
-<img style="float: left;" src="[whatever.jpg](https://github.githubassets.com/images/icons/emoji/octocat.png)">
-<img style="float: right;" src="[whatever.jpg](https://github.githubassets.com/images/icons/emoji/octocat.png)">
+<img align="left" width="100" height="100" src="[http://www.fillmurray.com/100/100](https://github.githubassets.com/images/icons/emoji/octocat.png)">
+
+This is the code you need to align images to the left:
+```
+this is a cool speaker
+```
+
+---
+
 
 
 * * *
