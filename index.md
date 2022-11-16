@@ -77,6 +77,10 @@ var fun = function lang(l) {
 
 # Speakers
 
+<img style="float: left;" src="[whatever.jpg](https://github.githubassets.com/images/icons/emoji/octocat.png)">
+<img style="float: right;" src="[whatever.jpg](https://github.githubassets.com/images/icons/emoji/octocat.png)">
+
+
 * * *
 
 # Footer
