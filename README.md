@@ -1,6 +1,6 @@
 # TABConf
 
-<img src="" width="100">
+<img src="https://github.com/TABConf/2023.tabconf.com/blob/main/assets/img/TABConf_Black_Medium.png">
 
 A refreshingly technical focused Bitcoin Conference
 [Checkout the website for more info]([https://storj.io/storj.pdf](https://2023.tabconf.com/))
