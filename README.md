@@ -1,5 +1,3 @@
-# TABConf
-
 <img src="https://github.com/TABConf/2023.tabconf.com/blob/main/assets/img/TABConf_Black_Medium.png">
 
 A refreshingly technical focused Bitcoin Conference
