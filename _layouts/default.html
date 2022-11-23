@@ -29,16 +29,9 @@
           <a href="/sponsors">Sponsors</a><br>
           <a href="">Hotel</a>
         </p>
-        
-         <form action="https://buy.stripe.com/test_6oEaGQaHpckFgOA9AB"><button type="submit">Buy A Ticket - <strong>Lightning</strong></button></form> 
-         <form action="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014"><button type="submit">Buy A Ticket - <strong>BTC On-Chain</strong></button></form> 
-         <form action="https://buy.stripe.com/test_6oEaGQaHpckFgOA9AB"><button type="submit">Buy A Ticket - <strong>Fiat</strong></button></form>
-        
-        <a href="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014" target="_blank"><img style="width:200px;" src="https://app.opennode.com/pay-with-bitcoin.svg"/></a>
-
-        https://js.stripe.com/v3/buy-button.js
-        
-        <a href="https://buy.stripe.com/dR66q3crp2obfQcdQQ" target="_blank"><img style="width:200px;" src="https://js.stripe.com/v3/buy-button.js"/></a>
+                
+          <a href="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014" target="_blank"><img style="width:200px;" src="https://app.opennode.com/pay-with-bitcoin.svg"/></a><br>
+          <form action="https://buy.stripe.com/test_6oEaGQaHpckFgOA9AB"><button type="submit">Buy A Ticket - <strong>Fiat</strong></button></form>
 
         
       </header>
@@ -55,22 +48,25 @@
           <a href="/press">Press, </a>
         </p>
         
-        <!-- <p><a href="">Volunteer Sign-up</a></p> -->
-        <!-- <p><a href="">Apply for a Builder Day Table</a></p> -->
-        <!-- <p><a href="">Apply for a Scholarship</a></p> -->
-        
         <p>
-          Follow
+          Sign-up: 
+          <a href="">Volunteers, </a>
+          <a href="">Builder Day Table, </a>
+          <a href="">Scholarship</a>
+        </p>
+
+        <p>
+          Follow:
           <a href="https://twitter.com/tabconf">Twitter, </a>
           <a href="https://discord.gg/TxFAWb3Adp">Discord, </a>
           <a href="https://t.me/tabconf">Telegram</a>
         </p>
         
 
-        <!-- {% if site.github.is_project_page %} -->
-        <!-- <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p> -->
-        <!-- {% endif %} -->
-        <!-- <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p> -->
+        {% if site.github.is_project_page %}
+        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+        {% endif %}
+        
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
