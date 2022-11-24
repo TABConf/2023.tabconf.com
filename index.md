@@ -20,6 +20,8 @@ See [last year's website](https://2022.tabconf.com/) for a sense of what TABConf
 
 * * *
 
+<!--
+
 # Villages
 
 
@@ -36,7 +38,6 @@ A collaboration between 4 BitDevs communities: Austin, Miami, NYC, and Raleigh!
 }
 ```
 
-<!--
 * * *
 
 # Sponsors
