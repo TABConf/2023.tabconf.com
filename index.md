@@ -16,7 +16,7 @@ An event for building communities, providing education, and supporting developer
 
 **Afterpartys!**
 
-See [last year's website](https://2022.tabconf.com/)for a good sense of what TABConf programming is like.
+See [last year's website](https://2022.tabconf.com/) for a sense of what TABConf programming is like.
 
 * * *
 
@@ -36,6 +36,7 @@ A collaboration between 4 BitDevs communities: Austin, Miami, NYC, and Raleigh!
 }
 ```
 
+<!--
 * * *
 
 # Sponsors
@@ -64,8 +65,4 @@ Brandon Iglesias
 this is a cool speaker
 ```
 
-* * *
-
-# Footer
-
-[Press Kit]([https://2022.tabconf.com/](https://drive.google.com/drive/folders/1FjhUlzZ1rCFP6LHwXnOi3KNjFHVx2EHI))
+-->
