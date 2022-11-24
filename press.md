@@ -6,8 +6,8 @@ layout: default
 
 * * *
 
-<img align="left" width="100" height="100" src="https://github.com/TABConf/2023.tabconf.com/blob/main/assets/img/TABConf_Black_Medium.png"><br>
+![TABConf_Black_Medium](https://github.com/TABConf/2023.tabconf.com/blob/main/assets/img/TABConf_Black_Medium.png)
 
 * * *
 
-<img align="left" width="100" height="100" src="https://github.com/TABConf/2023.tabconf.com/blob/main/assets/img/logo.png"><br>
+![NG](https://github.com/TABConf/2023.tabconf.com/blob/main/assets/img/logo.png)
