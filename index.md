@@ -14,7 +14,7 @@ An event for building communities, providing education, and supporting developer
 
 **Villages:** Speakers, panel discussions, open hackerspace, Capture the Bitcoin, and more.
 
-**Afterpartys!**
+**Afterparties!**
 
 See [last year's website](https://2022.tabconf.com/) for a sense of what TABConf programming is like.
 
