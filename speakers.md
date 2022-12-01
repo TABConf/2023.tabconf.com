@@ -11,7 +11,7 @@ coming soon
 ### tidwell was here
 
 
-<img align="left" width="100" height="100" src="https://github.githubassets.com/images/icons/emoji/octocat.png">
+<img align="left" width="100" height="100" src="assets/img/sponsors/voltage-logo.png">
 
 
 
