@@ -1,10 +1,6 @@
 # TABConf 
 
-
-> An event for building communities, providing education, and supporting developers. 
-> 
-> We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin.
-
+An event for building communities, providing education, and supporting developers. We like to think of this as the most inclusive, organic, grassroots event possible for Bitcoin.
 
 The founders, [Michael Tidwell](https://twitter.com/miketwenty1) & [Brandon Iglesias](https://twitter.com/corptostartups), saw an opportunity to further Bitcoin education for the developers of Atlanta by bringing some of the greatest minds into one space. The goal was to run a stress-free, at-cost conference that helped the people of Atlanta and gave back to the community.
 
