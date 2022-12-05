@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# CTB Challenge (Capture the Bitcoin)
+# Capture the Bitcoin Challenge (CTB)
 
-TABConf 2023 will mark the 3rd year of the CTB (capture the Bitcoin) challenege. The CTB is a scavenger-hunt that is held during the conference. 
+TABConf 2023 will mark the 3rd year of the CTB challenege. The CTB is a scavenger-hunt that is held during the conference. 
 This scavenger hunt will test your knowledge of Bitcoin & challenge you to think outside the box.
 
 What is the goal?
