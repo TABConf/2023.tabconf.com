@@ -18,48 +18,31 @@ Attend great developer-focused bitcoin workshops.
 ## Villages:
 Speakers, panel discussions, open hackerspace, Capture the Bitcoin, and more.
 
-### TAB Village
+~~~
+TAB Village:
 Talks and panels with some of the brightest minds in Bitcoin.
+~~~
 
-### BitDevs Socratic Village
+~~~
+BitDevs Socratic Village: 
 This village is geared towards those interested in discussing and participating in the research and development of Bitcoin and related protocols.
+~~~
 
-### PlebDev Village
-PlebDev Village is a place for misfit hacker types, the wizards on the spectrum, the everyday builders! PlebDev Village is a celebration of the limitless potential still untapped in Bitcoin and Lightning. 
+~~~
+PlebDev Village:
+This Village is a place for misfit hacker types, the wizards on the spectrum, the everyday builders! PlebDev Village is a celebration of the limitless potential still untapped in Bitcoin and Lightning. 
+~~~
 
-### Shadowy Super Coders & Gamers Village 
+~~~
+Shadowy Super Coders & Gamers Village 
 At the Gaming Village, you’ll enter a next-generation arcade with a mix of mobile and PC gaming, all powered by ZEBEDEE. Experience Bitcoin gaming first hand, then stick around to discuss the tech and the implications of Bitcoin Lightning tech on the gaming industry and the virtual economies of the future!
+~~~
 
-### Capture The Bitcoin (CTB) 
+## Capture The Bitcoin (CTB) 
 The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 
-### Chess Tournament
+## Chess Tournament
 Chess tournament. 100k sats buy-in, winner take all! Single round elimination for winners.
 
 ## Afterparties
 'Nuff said
-
-See [last year's website](https://2022.tabconf.com/) for a sense of what TABConf programming is like.
-
-
-
-
-* * *
-
-<!--
-
-# Villages
-
-
-```js
-// TAB Village
-Talks and panels with some of the brightest minds in Bitcoin.
-}
-```
-
-```js
-// BitDevs Village.
-This village is geared towards those interested in discussing and participating in the research and development of Bitcoin and related protocols. 
-A collaboration between 4 BitDevs communities: Austin, Miami, NYC, and Raleigh!
-}
-```
