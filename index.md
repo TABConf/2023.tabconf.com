@@ -3,17 +3,17 @@ layout: default
 ---
 
 # TABConf
-TABConf is the leading technical bitcoin conference on. We bring together experts from around the world to share their insights, knowledge, and experience on the latest developments in Bitcoin. TABConf focuses on building builders, providing education, and supporting developers. We like to think of this as the most inclusive, organic, grassroots conferance in Bitcoin. 
+TABConf is the leading technical bitcoin conference. We bring together experts from around the world to share their insights, knowledge, and experience about the latest developments in Bitcoin. TABConf focuses on building builders, providing education, and supporting developers. 
 
 ## What can I expect at TABConf?
-At TABConf, you will have the opportunity to hear and discuss the latest developments in Bitcoin. Whether you are a developer, researcher, entrepreneur, or simply interested in learning more about Bitcoin, TABConf is the perfect event for you. Join us for four days of learning, networking, and exploration at the forefront of this exciting and transformative technology.
+At TABConf, you will have the opportunity to engage in conversations around the latest developments in Bitcoin. Whether you are a developer, researcher, entrepreneur, or simply interested in learning more about Bitcoin, TABConf is the perfect event for you! Join us for four days of learning, networking, and building at the most inclusive, organic, and grassroots conference in Bitcoin.
 
 
 ## Builders Day:
-A friendly place to learn how to contribute to open-source projects in bitcoin. This is a great one to attend if you hope to work in the bitcoin industry as a developer!
+A friendly place to learn how to contribute to open-source projects in bitcoin. If you aspire to work in the bitcoin industry as a developer, this day is one you won't want to miss!
 
 ## Workshops:
-Attend great developer-focused bitcoin workshops.
+Developer-focused bitcoin workshops.
 
 ## Villages:
 Speakers, panel discussions, open hackerspace, Capture the Bitcoin, and more.
