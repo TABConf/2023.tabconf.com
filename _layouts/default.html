@@ -40,6 +40,11 @@
     }
     .button2 {background-color: #f2a900;} /* orange */
     .button3 {background-color: #85bb65;} /* green */ 
+    .footer
+    {
+      position: absolute;
+      bottom: 0px;
+    }
   </style>
   <body>
     <div class="wrapper">
@@ -63,39 +68,38 @@
         
         <a href="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014" class="button button2">Pay with BTC</a>
         <a href="https://buy.stripe.com/00g5lZdvtbYL47u5kl" class="button button3">Pay With Fiat</a>
-
-        <!--
-         <form action="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014"><button type="submit">Pay with <strong>BTC</strong></button></form>
-         <br>
-         <form action="https://buy.stripe.com/00g5lZdvtbYL47u5kl"><button type="submit">Pay with <strong>Fiat</strong></button></form>
-         -->
+        <br>
         
+        <div class="footer">
+          <p>
+            <a href="/ctb">CTB, </a>
+            <a href="/about">About, </a>
+           <a href="/press">Press</a>
+         </p>
+        
+          <p>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3Sm9lzGQgFobHeMv0volLJ4RCWYi2qc2Dll2d1qT1wml2JA/viewform?usp=sf_link">Volunteers, </a>
+            <a href="">Builder Day Table, </a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUvcpTNOCuxfg_vAilZwY7ViFml9P6Gb96grCxupKM0Yvn8w/viewform?usp=sf_link">Grants</a>
+          </p>
+
+          <p>
+            <a href="https://twitter.com/tabconf"><i class="fa fa-twitter" style="font-size:36px"></i></a>          
+            <a href="https://discord.gg/TxFAWb3Adp"><i class="fa-brands fa-discord" style="font-size:36px"></i></a>
+            <a href="https://t.me/tabconf"><i class="fa fa-telegram" style="font-size:36px"></i></a>
+          </p>
+        </div>
       </header>
+      
       <section>
 
       {{ content }}
 
       </section>
-      <footer>
-        <p>
-          <a href="/ctb">CTB, </a>
-          <a href="/about">About, </a>
-          <a href="/press">Press</a>
-        </p>
-        
-        <p>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSe3Sm9lzGQgFobHeMv0volLJ4RCWYi2qc2Dll2d1qT1wml2JA/viewform?usp=sf_link">Volunteers, </a>
-          <a href="">Builder Day Table, </a>
-          <a href="https://docs.google.com/forms/d/e/1FAIpQLSdUvcpTNOCuxfg_vAilZwY7ViFml9P6Gb96grCxupKM0Yvn8w/viewform?usp=sf_link">Grants</a>
-        </p>
-
-        <p>
-          <a href="https://twitter.com/tabconf"><i class="fa fa-twitter" style="font-size:36px"></i></a>          
-          <a href="https://discord.gg/TxFAWb3Adp"><i class="fa-brands fa-discord" style="font-size:36px"></i></a>
-          <a href="https://t.me/tabconf"><i class="fa fa-telegram" style="font-size:36px"></i></a>
-        </p>
-      </footer>
+      
     </div>
+    
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    
   </body>
 </html>
