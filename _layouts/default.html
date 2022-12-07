@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
-{% seo %}
+    
+    {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <script src="https://kit.fontawesome.com/a203d2df24.js" crossorigin="anonymous"></script>
     
@@ -14,6 +14,7 @@
     <![endif]-->
     {% include head-custom.html %}
   </head>
+  
   <style>
     * {
       font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
@@ -42,10 +43,11 @@
     .button3 {background-color: #85bb65;} /* green */ 
     .footer
     {
-      position: absolute;
+      position: inherit;
       bottom: 0px;
     }
   </style>
+  
   <body>
     <div class="wrapper">
       <header>
@@ -94,6 +96,7 @@
       <section>
       {{ content }}
       </section>
+      
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
