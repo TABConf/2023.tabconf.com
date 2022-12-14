@@ -55,12 +55,11 @@
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
 
-        <!-- <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1> -->
-
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
-        
-        <p>Steptember 6th - 9th 2023: Atlanta, GA</p>
-        <p>Buy your ticket below - $99 USD</p>
+        <p>
+          {{ site.description | default: site.github.project_tagline }}</br>
+          Steptember 6th - 9th 2023: Atlanta, GA </br>
+          Buy your ticket below - $99 USD
+        </p>
         
         <a href="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014" class="button button2">Pay with BTC</a>
         <a href="https://buy.stripe.com/00g5lZdvtbYL47u5kl" class="button button3">Pay With Fiat</a>
