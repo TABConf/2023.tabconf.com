@@ -75,8 +75,9 @@
           <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
         {% endif %}
 
+        <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+        
         <p>
-          {{ site.description | default: site.github.project_tagline }}</br>
           Steptember 6th - 9th 2023: Atlanta, GA </br>
           Buy your ticket below - $99 USD
         </p>
