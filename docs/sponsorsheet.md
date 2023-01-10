@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # TABConf 2023 Sponsorsheet
 #### TABConf has sponsorship opportunities for forward-thinking Bitcoin companies (that’s you)
 
