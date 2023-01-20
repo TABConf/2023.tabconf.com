@@ -2,47 +2,42 @@
 layout: default
 ---
 
-# TABConf
-TABConf is the leading technical bitcoin conference. We bring together experts from around the world to share their insights, knowledge, and experience about the latest developments in Bitcoin. TABConf focuses on building builders, providing education, and supporting developers. 
+# TABConf 2023
 
-## What can I expect at TABConf?
-At TABConf, you will have the opportunity to engage in conversations around the latest developments in Bitcoin. Whether you are a developer, researcher, entrepreneur, or simply interested in learning more about Bitcoin, TABConf is the perfect event for you! Join us for four days of learning, networking, and building at the most inclusive, organic, and grassroots conference in Bitcoin.
+Welcome to TABConf, the world's leading technical bitcoin conference.
+
+At TABConf, we bring together the best and brightest minds in the bitcoin world to share their insights, knowledge, and experience about the latest developments in this exciting and rapidly evolving technology. From seasoned professionals to up-and-coming developers, TABConf is the perfect platform for connecting with like-minded individuals and learning from the experts.
+
+Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, and we will make some magic happen! 🤘
+
+## What can I expect at TABConf? 🤔
+
+TABConf is the perfect event for anyone interested in the latest developments in Bitcoin. 
+
+Whether you're a developer, researcher, entrepreneur, or simply want to learn more about Bitcoin, you'll find something to love at TABConf.
+
+Join us for four days of engaging conversations, networking, and building at the most inclusive, organic, and grassroots conference in the Bitcoin world. You'll have the opportunity to connect with like-minded individuals and learn from experts in the field.
+
+Don't miss this chance to be a part of the TABConf experience. Get a ticket and join us for four days of learning, networking, and building Bitcoin.
+
+## 4 Days of building 🏗️
 
 
-## Builders Day:
-A friendly place to learn how to contribute to open-source projects in bitcoin. If you aspire to work in the bitcoin industry as a developer, this day is one you won't want to miss!
 
-## Workshops:
-Developer-focused bitcoin workshops.
+### 🔨 Builders Day:
+Builder's Day is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
 
-## Villages:
-Speakers, panel discussions, open hackerspace, Capture the Bitcoin, and more.
+### 🧑‍💻 Workshops:
+Workshops at TABConf are developer-focused and offer the chance to learn from experts in the field.
 
-~~~
-TAB Village:
-Talks and panels with some of the brightest minds in Bitcoin.
-~~~
+### 🏘️ Villages:
+The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
 
-~~~
-BitDevs Socratic Village: 
-This village is geared towards those interested in discussing and participating in the research and development of Bitcoin and related protocols.
-~~~
-
-~~~
-PlebDev Village:
-This Village is a place for misfit hacker types, the wizards on the spectrum, the everyday builders! PlebDev Village is a celebration of the limitless potential still untapped in Bitcoin and Lightning. 
-~~~
-
-~~~
-Shadowy Super Coders & Gamers Village 
-At the Gaming Village, you’ll enter a next-generation arcade with a mix of mobile and PC gaming, all powered by ZEBEDEE. Experience Bitcoin gaming first hand, then stick around to discuss the tech and the implications of Bitcoin Lightning tech on the gaming industry and the virtual economies of the future!
-~~~
-
-## Capture The Bitcoin (CTB) 
+### 🕵️ Capture the Bitcoin (CTB)
 The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 
-## Chess Tournament
-Chess tournament. 100k sats buy-in, winner take all! Single round elimination for winners.
+### ♟️ Chess Tournament
+The chess tournament has a 100k sats buy-in and is a single-round elimination for winners.
 
-## Afterparties
-'Nuff said
+### 🪅 Afterparties 
+Afterparties sponsored by ZEBEDEEE in the Shadowy Super Coders & Gamers Village and are always open to all attendees. Don't miss out on the fun!
