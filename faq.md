@@ -6,7 +6,7 @@
   - [Omni Atlanta Hotel at CNN Center](https://www.omnihotels.com/hotels/atlanta-cnn-center), [Google Maps](https://goo.gl/maps/9inaGaCqc8gRjWLi8)
 - Where do I stay?
   - The best place to stay is at the Omni Atlanta Hotel At CNN Center. 
-  - You can book your room and get a [special rate here]()
+  - You can book your room and get a [special rate here](https://www.omnihotels.com/hotels/atlanta-cnn-center/meetings/tabconf-2023-annual-convention-09052023)
   - Staying at the hotel will drastically reduce transportation logistics for you since the conference happens in the hotel. 
   - Booking a room at the Omni helps the conference by filling the room block we are contractually obligated to fill or pay. 
 - Is TABConf for me?
