@@ -20,4 +20,4 @@
   - TABConf only has 1 type of ticket; there are no VIP or whale tickets. 
   - The ticket also gives you access to the TABConf official after-party. 
 - How much does a TABConf 2023 ticket cost?
-  - Tickets started at $69.420 in November 2022 and are now selling for $99.00. Buy yours before the price goes up. 
+  - Tickets started at $69.420 in November 2022 and are now selling for $121.00. Buy yours before the price goes up. 
