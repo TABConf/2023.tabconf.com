@@ -7,14 +7,14 @@ layout: default
 We are organizing the TABConf 2023 programming a bit differently, its exciting. 
 
 If you are interested in giving a talk, workshop, or panel, you must open a GitHub issue at 
-https://github.com/TABConf/2023.tabconf.com/issues/new/choose. 
+[https://github.com/TABConf/2023.tabconf.com/issues/new/choose](https://github.com/TABConf/2023.tabconf.com/issues/new/choose).
 
 Please be as detailed as possible when opening your issue because this is how talks, panels, and workshops for TABConf 2023 will be selected. Your submission is public, so anyone can also read your submission, ask questions, and vote on it by using the emojis on Github. 
 
-Here is a simple example issue you can check out: https://github.com/TABConf/2023.tabconf.com/issues/1. 
+Here is a simple example issue you can check out: [https://github.com/TABConf/2023.tabconf.com/issues/1](https://github.com/TABConf/2023.tabconf.com/issues/1).
 
 Submissions that are chosen will be added to the TABConf 2023 GitHub Project, which is what we are going to use as our official schedule: 
-https://github.com/orgs/TABConf/projects/1/views/1
+[https://github.com/orgs/TABConf/projects/1/views/1](https://github.com/orgs/TABConf/projects/1/views/1).
 
 Here are some of the reasons we are trying this out for 2023.
 - We want to provide more transparency for the workshop, speaker, and panel selections. 
