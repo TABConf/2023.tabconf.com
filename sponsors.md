@@ -15,5 +15,6 @@ layout: default
 
 <a href="https://blockstream.com/"><img width="200" src="assets/img/sponsors/blockstream-logo.png"></a>
 
-<a href="https://start9.com//"><img width="200" src="assets/img/sponsors/start-9-logo.png"></a>
+<a href="https://start9.com/"><img width="200" src="assets/img/sponsors/start-9-logo.png"></a>
 
+<a href="https://unchained.com/"><img width="200" src="assets/img/sponsors/unchained-capital-logo.png"></a>
