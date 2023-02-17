@@ -1,0 +1,91 @@
+---
+---
+
+@import "jekyll-theme-minimal";
+
+* {
+  font-family: 'Helvetica';
+}
+
+.title-sponsors-heading {
+  color: #FF9900;
+  font-size: 40px;
+  font-style: italic;
+}
+
+.sponsor-card {
+  border: 2px solid #FF9900;
+  border-radius: 20px;
+  height: 327px;
+  width: 642px;
+  margin: 50px 0 10px 0
+}
+
+.sponsor-social-icons {
+  margin: 15px 0 0 35px
+}
+
+.sponsor-badge {
+  float: right;
+  width: 166px;
+  height: 35px;
+  margin: 0 20px 10px 0;
+  background: #FF9900;
+  border: 2px solid #FF9900;
+  border-radius: 30px;
+  color:white;
+  font-weight:bold
+}
+
+.title-sponsor-logo a img {
+  width: 400px
+}
+
+.general-sponsor-logo {
+  width: 96%;
+  padding: 40px 0 5px 15px;
+  display: flex !important;
+  justify-content: space-between;
+}
+
+.general-sponsor-logo a img {
+  width: 230px;
+}
+
+.sponsor-description {
+  padding: 15px 50px
+}
+
+.general-sponsors-heading {
+  color: #54A7D3;
+  font-size: 40px;
+  font-style: italic;
+}
+
+.general-sponsor-card {
+  height: 275px;
+  border: 2px solid #54A7D3;
+}
+
+.general-sponsor-badge {
+  background: #54A7D3;
+  border: 2px solid #54A7D3;
+}
+
+// General styles
+
+.no-padding-top {
+  padding-top: 0;
+}
+
+.padding-left {
+  padding: 0 0 0 15px;
+}
+
+.padding-top-left {
+  padding: 35px 0 0 15px;
+}
+
+.no-margin {
+  margin: 0
+}
