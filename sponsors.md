@@ -47,7 +47,7 @@ Because we need your money pls give it to us! tytytytyty
     <a href="http://sphinx.chat/">
       <img width="400" src="assets/img/sponsors/sphinx-logo.png">
     </a>
-    <p class="general-sponsor-description">Decentralize social media, and take back your data.</p>
+    <p class="general-sponsor-description padding-left-top">Decentralize social media, and take back your data.</p>
   </div>
 </div>
 <!-- GS2 Blockstream -->
@@ -62,7 +62,7 @@ Because we need your money pls give it to us! tytytytyty
   </div>
   <button class="sponsor-badge general-sponsor-badge">Water Sponsor</button>
   <button class="sponsor-badge general-sponsor-badge">Builder's Day Sponsor</button>
-  <div class="general-sponsor-logo">
+  <div class="general-sponsor-logo width-500">
     <a href="https://blockstream.com/">
       <img width="400" src="assets/img/sponsors/blockstream-logo.png">
     </a>
@@ -103,7 +103,7 @@ Because we need your money pls give it to us! tytytytyty
     </a>
   </div>
   <button class="sponsor-badge general-sponsor-badge">Village Sponsor</button>
-  <div class="general-sponsor-logo">
+  <div class="general-sponsor-logo width-500">
     <a href="https://www.cardcoins.co/" target="_blank">
       <img width="350" src="assets/img/sponsors/cardcoins-logo.png">
     </a>
@@ -124,7 +124,7 @@ Because we need your money pls give it to us! tytytytyty
     </a>
   </div>
   <button class="sponsor-badge general-sponsor-badge">Coffee Sponsor</button>
-  <div class="general-sponsor-logo">
+  <div class="general-sponsor-logo width-500">
     <a href="https://unchained.com/" target="_blank">
       <img width="350" src="assets/img/sponsors/unchained-capital-logo.png">
     </a>
