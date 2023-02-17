@@ -7,8 +7,10 @@ layout: default
 ## 🤔 Why Sponsor?
 Because we need your money pls give it to us! tytytytyty
 
+
 <!-- TITLE SPONSORS -->
 <h2 class="title-sponsors-heading">TITLE SPONSORS</h2>
+
 <!-- TS1 Voltage -->
 <div class="sponsor-card">
   <div class="sponsor-social-icons">
@@ -30,8 +32,10 @@ Because we need your money pls give it to us! tytytytyty
   </p>
 </div>
 
+
 <!-- GENERAL SPONSORS -->
 <h2 class="general-sponsors-heading">GENERAL SPONSORS</h2>
+
 <!-- GS1 Sphinx -->
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
@@ -50,6 +54,7 @@ Because we need your money pls give it to us! tytytytyty
     <p class="general-sponsor-description padding-left-top">Decentralize social media, and take back your data.</p>
   </div>
 </div>
+
 <!-- GS2 Blockstream -->
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
@@ -72,6 +77,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
+
 <!-- GS3 Start9 -->
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
@@ -92,6 +98,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
+
 <!-- GS4 CardCoins-->
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
@@ -113,6 +120,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
+
 <!-- GS5 Unchained -->
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
@@ -134,6 +142,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
+
 <!-- GS6 River
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
