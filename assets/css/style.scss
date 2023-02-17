@@ -18,7 +18,7 @@
   border-radius: 20px;
   height: 327px;
   width: 642px;
-  margin: 50px 0 10px 0
+  margin: 0 0 50px 0;
 }
 
 .sponsor-social-icons {
@@ -86,6 +86,14 @@
   padding: 35px 0 0 15px;
 }
 
+.padding-left-top {
+  padding: 10px 0 0 35px
+}
+
 .no-margin {
   margin: 0
+}
+
+.width-500 {
+  width: 500px
 }
