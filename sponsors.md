@@ -134,7 +134,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
-<!-- GS6 River -->
+<!-- GS6 River
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
     <a href="" target="_blank">
@@ -156,7 +156,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
-<!-- GS7 Wolf -->
+GS7 Wolf
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
     <a href="" target="_blank">
@@ -177,7 +177,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
-<!-- GS7 Strike -->
+GS7 Strike
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
     <a href="" target="_blank">
@@ -197,7 +197,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
-<!-- GS8 Moon -->
+GS8 Moon
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
     <a href="" target="_blank">
@@ -219,3 +219,4 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
+-->
