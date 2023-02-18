@@ -71,7 +71,7 @@ Because we need your money pls give it to us! tytytytyty
     <a href="https://blockstream.com/">
       <img class="width-500" src="assets/img/sponsors/blockstream-logo.png">
     </a>
-    <p class="general-sponsor-description" style="padding-left: 15px;">
+    <p class="general-sponsor-description" style="width:500px;padding-left: 15px;">
       Founded in 2014, Blockstream has been the leading provider of blockchain technologies
       and has remained on the forefront of work in cryptography and distributed systems.
     </p>
@@ -112,9 +112,9 @@ Because we need your money pls give it to us! tytytytyty
   <button class="sponsor-badge general-sponsor-badge">Village Sponsor</button>
   <div class="general-sponsor-logo">
     <a href="https://www.cardcoins.co/" target="_blank">
-      <img class="width-500" src="assets/img/sponsors/cardcoins-logo.png">
+      <img src="assets/img/sponsors/cardcoins-logo.png">
     </a>
-    <p class="general-sponsor-description" style="padding-left: 15px;">
+    <p class="general-sponsor-description" style="width:500px;padding-left: 15px;">
       Buy cryptocurrency with cash. Use a prepaid gift card to convert your cash into
       digital currency at over 80,000 locations nationwide.
     </p>
@@ -136,7 +136,7 @@ Because we need your money pls give it to us! tytytytyty
     <a href="https://unchained.com/" target="_blank">
       <img src="assets/img/sponsors/unchained-capital-logo.png">
     </a>
-    <p class="general-sponsor-description" style="padding-left: 15px; margin-top: 0">
+    <p class="general-sponsor-description" style="width:500px;padding-left: 15px;margin-top: 0">
       Their mission is to build a bitcoin-native ecosystem that ensures everyone can
       secure and maximize the value of their bitcoin holdings over multiple generations.
     </p>
