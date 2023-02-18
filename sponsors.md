@@ -24,7 +24,7 @@ Because we need your money pls give it to us! tytytytyty
   <button class="sponsor-badge">Mainstage Sponsor</button>
   <div class="title-sponsor-logo" style="padding: 55px 20px 0 30px;display: flex !important">
     <a href="https://voltage.cloud/" target="_blank">
-      <img width="500" src="assets/img/sponsors/voltage-logo.png">
+      <img src="assets/img/sponsors/voltage-logo.png">
     </a>
   </div>
   <p class="sponsor-description">
@@ -49,7 +49,7 @@ Because we need your money pls give it to us! tytytytyty
   <button class="sponsor-badge general-sponsor-badge">Wristband Sponsor</button>
   <div class="general-sponsor-logo">
     <a href="http://sphinx.chat/">
-      <img width="400" src="assets/img/sponsors/sphinx-logo.png">
+      <img src="assets/img/sponsors/sphinx-logo.png">
     </a>
     <p class="general-sponsor-description padding-left-top">Decentralize social media, and take back your data.</p>
   </div>
@@ -67,9 +67,9 @@ Because we need your money pls give it to us! tytytytyty
   </div>
   <button class="sponsor-badge general-sponsor-badge">Water Sponsor</button>
   <button class="sponsor-badge general-sponsor-badge">Builder's Day Sponsor</button>
-  <div class="general-sponsor-logo width-500">
+  <div class="general-sponsor-logo">
     <a href="https://blockstream.com/">
-      <img width="400" src="assets/img/sponsors/blockstream-logo.png">
+      <img class="width-500" src="assets/img/sponsors/blockstream-logo.png">
     </a>
     <p class="general-sponsor-description" style="padding-left: 15px;">
       Founded in 2014, Blockstream has been the leading provider of blockchain technologies
@@ -91,7 +91,7 @@ Because we need your money pls give it to us! tytytytyty
   <button class="sponsor-badge general-sponsor-badge">General Sponsor</button>
   <div class="general-sponsor-logo">
     <a href="https://start9.com/" target="_blank">
-      <img width="350" src="assets/img/sponsors/start-9-logo.png">
+      <img src="assets/img/sponsors/start-9-logo.png">
     </a>
     <p class="general-sponsor-description" style="padding-left: 15px;">
       Start9 Labs develops EmbassyOS, a graphical operating system for running self-hosted software.
@@ -110,9 +110,9 @@ Because we need your money pls give it to us! tytytytyty
     </a>
   </div>
   <button class="sponsor-badge general-sponsor-badge">Village Sponsor</button>
-  <div class="general-sponsor-logo width-500">
+  <div class="general-sponsor-logo">
     <a href="https://www.cardcoins.co/" target="_blank">
-      <img width="350" src="assets/img/sponsors/cardcoins-logo.png">
+      <img class="width-500" src="assets/img/sponsors/cardcoins-logo.png">
     </a>
     <p class="general-sponsor-description" style="padding-left: 15px;">
       Buy cryptocurrency with cash. Use a prepaid gift card to convert your cash into
@@ -132,11 +132,11 @@ Because we need your money pls give it to us! tytytytyty
     </a>
   </div>
   <button class="sponsor-badge general-sponsor-badge">Coffee Sponsor</button>
-  <div class="general-sponsor-logo width-500">
+  <div class="general-sponsor-logo">
     <a href="https://unchained.com/" target="_blank">
-      <img width="350" src="assets/img/sponsors/unchained-capital-logo.png">
+      <img src="assets/img/sponsors/unchained-capital-logo.png">
     </a>
-    <p class="general-sponsor-description" style="padding-left: 15px;">
+    <p class="general-sponsor-description" style="padding-left: 15px; margin-top: 0">
       Their mission is to build a bitcoin-native ecosystem that ensures everyone can
       secure and maximize the value of their bitcoin holdings over multiple generations.
     </p>
@@ -156,7 +156,7 @@ Because we need your money pls give it to us! tytytytyty
   <button class="sponsor-badge general-sponsor-badge">General Sponsor</button>
   <div class="general-sponsor-logo no-padding-top no-margin">
     <a href="" target="_blank">
-      <img width="350" src="/assets/img/sponsors/river-financial-logo.png">
+      <img src="/assets/img/sponsors/river-financial-logo.png">
     </a>
     <p class="general-sponsor-description padding-left">
       Based in San Francisco, River Financial is a client-first financial institution
@@ -178,7 +178,7 @@ GS7 Wolf
   <button class="sponsor-badge general-sponsor-badge">Builder's Day Sponsor</button>
   <div class="general-sponsor-logo">
     <a href="" target="_blank">
-      <img width="350" src="/assets/img/sponsors/wolf-nyc-logo.png">
+      <img src="/assets/img/sponsors/wolf-nyc-logo.png">
     </a>
     <p class="general-sponsor-description no-margin" style="padding-left: 15px;">
       The future of decentralized finance is being built today, and it's being built on
@@ -199,7 +199,7 @@ GS7 Strike
   <button class="sponsor-badge general-sponsor-badge">General Sponsor</button>
   <div class="general-sponsor-logo no-padding-top">
     <a href="" target="_blank">
-      <img width="350" src="/assets/img/sponsors/strike-logo.png">
+      <img src="/assets/img/sponsors/strike-logo.png">
     </a>
     <p class="general-sponsor-description padding-top-left">
       Strike allows users to send and receive money anywhere, instantly, with no added fees.
@@ -219,7 +219,7 @@ GS8 Moon
   <button class="sponsor-badge general-sponsor-badge">General Sponsor</button>
   <div class="general-sponsor-logo">
     <a href="" target="_blank">
-      <img width="350" src="/assets/img/sponsors/moon-logo.png">
+      <img src="/assets/img/sponsors/moon-logo.png">
     </a>
     <p class="general-sponsor-description padding-left no-margin">
       Moon is a platform that empowers you to live on bitcoin. Purchase Moon Visa Prepaid
