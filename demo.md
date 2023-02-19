@@ -1,10 +1,10 @@
 # TABConf 2023 Sponsors 
 
+### Main Stage Sponsor [🐦](https://twitter.com/voltage_cloud) [🌐](https://voltage.cloud/)
+
 <img align="left" width="500" src="assets/img/sponsors/voltage-logo.png">
 
-#### Main Stage Sponsor [:bird:](https://twitter.com/voltage_cloud) [:globe_with_meridians:](https://voltage.cloud/)
-
-Voltage is an infrastructure provider for Bitcoin. They bridge the gap between easy & fast cloud infrastructure and the security & privacy that Bitcoin requires for both Layer 1 & 2.
+Voltage is an infrastructure provider for Bitcoin. They bridge the gap between easy & fast cloud infrastructure and the security & privacy that Bitcoin requires for both Layer 1 & 2. 🐦 🌐
 
 <br>
 
