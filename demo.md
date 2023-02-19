@@ -2,7 +2,9 @@
 
 ## Main Stage Sponsor [🐦](https://twitter.com/voltage_cloud) [🌐](https://voltage.cloud/)
 
-<img align="left" width="400" src="assets/img/sponsors/voltage-logo.png">
+<img align="center" width="500" src="assets/img/sponsors/voltage-logo.png">
+
+<br> 
 
 Voltage is an infrastructure provider for Bitcoin. They bridge the gap between easy & fast cloud infrastructure and the security & privacy that Bitcoin requires for both Layer 1 & 2. 🐦 🌐
 
