@@ -32,12 +32,12 @@ Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, 
   0x544142436f…474120555341
   0x544142436f…696c64657273
   0x544142436f…5469636b6574
+  0x1867386612…e43fcd20871a
   1
   1
 ```
 
 ## 4 Days of Building 🏗️
-
 
 <details>
 <summary>🔨 Builder Days</summary>
