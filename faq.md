@@ -9,6 +9,7 @@ September 6th - 9th 2023
 
 <details>
 <summary>Where is TABConf 2023?</summary>
+ 
 [Omni Atlanta Hotel at CNN Center](https://www.omnihotels.com/hotels/atlanta-cnn-center), [Google Maps](https://goo.gl/maps/9inaGaCqc8gRjWLi8)
 </details>
 
