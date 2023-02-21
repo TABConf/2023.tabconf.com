@@ -4,19 +4,29 @@ layout: default
 
 # TABConf 2023
 
-At TABConf, we bring together the best and brightest minds in the bitcoin world to share their insights, knowledge, and experience about the latest developments in this exciting and rapidly evolving technology. From seasoned professionals to up-and-coming developers, TABConf is the perfect platform for connecting with like-minded individuals and learning from the experts.
+At TABConf, we bring together the best and brightest minds in the bitcoin world to share their insights, knowledge, and experience about the latest developments. From seasoned core devs to up-and-coming plebs, TABConf is the perfect place to connect with like-minded individuals and learning from the experts.
 
 Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, and we will make some magic happen! 🤘
+
 ```javascript
 TABConf2023.find("info").matches({
-  "Who": ["bitcoiners", "developers", "researchers", "entrepreneurs", "students"],
-  "What": ["bitcoin", "workshops", "talks", "villages", "hacker space"],
-  "how": ["grassroots", "inclusive"],
-  "hopes": true,
-  "dreams": true
-  })
+  "Who": [
+    "bitcoiners", "developers",
+    "researchers", "entrepreneurs", 
+    "students", "curious people"
+  ],
+  "What": [
+    "bitcoin", "workshops",
+    "talks", "villages",
+    "hacker space"
+  ],
+  "When": "September 6th - 9th, 2023",
+  "Where": "Atlanta, GA USA",
+  "Why": "Building Builders",
+  "How": “buy your ticket",
+  "Attributes": ["grassroots", "inclusive"]
+})
 ```
-
 
 ## 4 Days of Building 🏗️
 
