@@ -8,24 +8,32 @@ At TABConf, we bring together the best and brightest minds in the bitcoin world 
 
 Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, and we will make some magic happen! 🤘
 
-```javascript
-TABConf2023.find("info").matches({
-  "Who": [
-    "bitcoiners", "developers",
-    "researchers", "entrepreneurs", 
-    "students", "curious people"
-  ],
-  "What": [
-    "bitcoin", "workshops",
-    "talks", "villages",
-    "hacker space"
-  ],
-  "When": "September 6th - 9th, 2023",
-  "Where": "Atlanta, GA USA",
-  "Why": "Building Builders",
-  "How": "buy your ticket",
-  "Attributes": ["grassroots", "inclusive"]
-})
+```sh
+  # Script
+  <'TABConf 2023'> <'grassroots, inclusive'> OP_CAT
+  <'bitcoiners, developers, '> OP_CAT
+  <'researchers, entrepreneurs, students, curious people'> OP_CAT
+  <'bitcoin, workshops, talks, villages, hacker space'> OP_CAT
+  <'September 6th - 9th, 2023'> OP_CAT
+  <'Atlanta, GA USA'> OP_CAT
+  <'Building Builders'> OP_CAT
+  <'Buy Your Ticket'> OP_CAT
+  OP_HASH160
+  <0x1867386612b8d16e704c1dc8dcf7e43fcd20871a> OP_EQUAL
+  <2022> OP_ADD
+  <2023> OP_EQUAL
+
+  # Stack
+  0x544142436f…6c7573697665
+  0x544142436f…706572732c20
+  0x544142436f…70656f706c65
+  0x544142436f…207370616365
+  0x544142436f…2c2032303233
+  0x544142436f…474120555341
+  0x544142436f…696c64657273
+  0x544142436f…5469636b6574
+  1
+  1
 ```
 
 ## 4 Days of Building 🏗️
