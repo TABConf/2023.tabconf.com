@@ -28,25 +28,35 @@ Don't miss this chance to be a part of the TABConf experience. Get a ticket and 
 Builder's Day is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
 </details>
 
+*** 
+
 <details>
 <summary>💻 Workshops:</summary>
 Workshops at TABConf are developer-focused and offer the chance to learn from experts in the field.
 </details>
+
+*** 
 
 <details>
 <summary>🏘️ Villages:</summary>
 The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
 </details>
 
+*** 
+
 <details>
 <summary>🕵️ Capture the Bitcoin (CTB):</summary>
 The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 </details>
 
+*** 
+
 <details>
 <summary>♟️ Chess Tournament:</summary>
 The chess tournament has a 100k sats buy-in and is a single-round elimination for winners.
 </details>
+
+*** 
 
 <details>
 <summary>🪅 Afterparties:</summary>
