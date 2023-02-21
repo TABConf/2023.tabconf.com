@@ -23,7 +23,7 @@ TABConf2023.find("info").matches({
   "When": "September 6th - 9th, 2023",
   "Where": "Atlanta, GA USA",
   "Why": "Building Builders",
-  "How": “buy your ticket",
+  "How": "buy your ticket",
   "Attributes": ["grassroots", "inclusive"]
 })
 ```
