@@ -1,128 +1,147 @@
 <!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    {% seo %}
-    <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
-    <script src="https://kit.fontawesome.com/a203d2df24.js" crossorigin="anonymous"></script>
-    
-    <!--[if lt IE 9]>
+<html lang="{{ site.lang | default: " en-US" }}">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+  <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+  <script src="https://kit.fontawesome.com/a203d2df24.js" crossorigin="anonymous"></script>
+
+  <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
-    {% include head-custom.html %}
-  </head>
-  
-  <style>
-    * {
-      font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-      font-weight: 350;
-    }
-    header {
-      position: sticky;
-    }
-    .button {
-      background-color: #4d4d4e;
-      border-radius: 8px;
-      font-size: 14px;
-      padding: 10px 24px;
-      border: none;
-      color: white;
-      text-align: center;
-      display: inline-block;
-      cursor: pointer;
-      text-decoration: none;
-      display: block;
-      width: 50%;
-      margin: 4px 2px
-    }
-    .button:hover {
-      background-color: #4d4d4e;
-      color: white;
-    }
-    .button2 {background-color: #f2a900;} /* orange */
-    .button3 {background-color: #85bb65;} /* green */ 
-    .footer
-    {
-      position: inherit;
-      bottom: 0px;
-    }
-    
-    ul.nav {
-      list-style-type: none;
-      margin: 0;
-      padding: 0;
-      background-color: #ffffff;
-      position: sticky;
-      overflow: auto;
-    }
-    li a.nav {
-      display: block;
-      color: #000;
-      padding: 8px 16px;
-      border-radius: 8px;
-      text-decoration: none;
-      
-    }
-    /* Change the link color on hover */
-    li a.nav:hover {
-      background-color: #555;
-      color: white;
-    }
-  </style>
-  
-  <body>
-    <div class="wrapper">
-      <header>
-        {% if site.logo %}
-          <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
-        {% endif %}
+  {% include head-custom.html %}
+</head>
 
-        <h3><br/>{{ site.description | default: site.github.project_tagline }}</h3>
-        
-        <p>
-          September 6th - 9th, 2023</br>
-          Atlanta, Georgia, USA</br>
-        </p>
-  
-        <p>
-            Buy your ticket below - $121 USD
-        </p>
-  
-        <a target="_blank" href="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014" class="button button2">Pay with BTC</a>
-        <a target="_blank" href="https://buy.stripe.com/fZebKnbnl9QDcE0bIK" class="button button3">Pay With Fiat</a>
-        <br>
-        
-        <ul class="nav">
-          <li><a class="nav" href="/about">About</a></li>
-          <!-- <li> <a href="https://github.com/orgs/TABConf/projects/1">Schedule</a></li> -->
-          <li><a class="nav" href="/speakers">Speakers</a></li>
-          <li><a class="nav" href="/sponsors">Sponsors</a></li>
-          <!--<li><a class="nav" href="/buildersday">Builders Day</a></li>-->
-          <!--<li><a class="nav" href="/workshops">Workshops</a></li>-->
-          <!--<li><a class="nav" href="/villages">Villages</a></li>-->
-          <li><a class="nav" href="/ctb">Capture the Bitcoin</a></li>
-          <li><a class="nav" href="/faq">FAQ's</a></li>
-          <li><a class="nav" target="_blank" href="https://www.omnihotels.com/hotels/atlanta-cnn-center/meetings/tabconf-2023-annual-convention-09052023">Hotel</a></li>
-          <li><a class="nav" href="/press">Press</a></li>
-          <li><a class="nav" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSe3Sm9lzGQgFobHeMv0volLJ4RCWYi2qc2Dll2d1qT1wml2JA/viewform?usp=sf_link">Volunteers</a></li>
-          <li><a class="nav" target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdUvcpTNOCuxfg_vAilZwY7ViFml9P6Gb96grCxupKM0Yvn8w/viewform?usp=sf_link">Grants</a></li>
-        </ul>
-        <br>
-        <p>
-            <a target="_blank" href="https://twitter.com/tabconf"><i class="fa fa-twitter" style="font-size:28px"></i></a>
-            <a target="_blank" href="https://discord.gg/TxFAWb3Adp"><i class="fa-brands fa-discord" style="font-size:28px"></i></a>
-            <a target="_blank" href="https://t.me/tabconf"><i class="fa fa-telegram" style="font-size:28px"></i></a>
-        </p>
-      </header>
-      
-      <section>
+<style>
+  * {
+    font-family: "HelveticaNeue", "Helvetica Neue", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: 350;
+  }
+
+  header {
+    position: sticky;
+  }
+
+  .button {
+    background-color: #4d4d4e;
+    border-radius: 8px;
+    font-size: 14px;
+    padding: 10px 24px;
+    border: none;
+    color: white;
+    text-align: center;
+    display: inline-block;
+    cursor: pointer;
+    text-decoration: none;
+    display: block;
+    width: 50%;
+    margin: 4px 2px
+  }
+
+  .button:hover {
+    background-color: #4d4d4e;
+    color: white;
+  }
+
+  .button2 {
+    background-color: #f2a900;
+  }
+
+  /* orange */
+  .button3 {
+    background-color: #85bb65;
+  }
+
+  /* green */
+  .footer {
+    position: inherit;
+    bottom: 0px;
+  }
+
+  ul.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    position: sticky;
+    overflow: auto;
+  }
+
+  li a.nav {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+
+  }
+
+  /* Change the link color on hover */
+  .selected,
+  li a.nav:hover {
+    background-color: #555;
+    color: white !important;
+  }
+</style>
+
+<body>
+  <div class="wrapper">
+    <header>
+      {% if site.logo %}
+      <a href="{{ "/" | absolute_url }}"><img src="{{site.logo | relative_url}}" alt="Logo" /></a>
+      {% endif %}
+
+      <h3><br />{{ site.description | default: site.github.project_tagline }}</h3>
+
+      <p>
+        September 6th - 9th, 2023</br>
+        Atlanta, Georgia, USA</br>
+      </p>
+
+      <p>
+        Buy your ticket below - $121 USD
+      </p>
+
+      <a target="_blank" href="https://checkout.opennode.com/p/5ba8df92-8df9-45b2-a51a-8c7e979a3014"
+        class="button button2">Pay with BTC</a>
+      <a target="_blank" href="https://buy.stripe.com/fZebKnbnl9QDcE0bIK" class="button button3">Pay With Fiat</a>
+      <br>
+
+      <ul class="nav">
+        <li><a class="nav" href="/speakers" id="speakers">Speakers</a></li>
+        <li><a class="nav" href="/sponsors" id="sponsors">Sponsors</a></li>
+        <li><a class="nav" href="/ctb" id="ctb">Capture the Bitcoin</a></li>
+        <li><a class="nav" href="/faq" id="faq">FAQ's</a></li>
+        <li><a class="nav" target="_blank"
+            href="https://www.omnihotels.com/hotels/atlanta-cnn-center/meetings/tabconf-2023-annual-convention-09052023">Hotel</a></li>
+        <li><a class="nav" href="/press" id="press">Press</a></li>
+        <li><a class="nav" target="_blank"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSe3Sm9lzGQgFobHeMv0volLJ4RCWYi2qc2Dll2d1qT1wml2JA/viewform?usp=sf_link"
+            id="volunteers">Volunteers</a></li>
+        <li><a class="nav" target="_blank"
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdUvcpTNOCuxfg_vAilZwY7ViFml9P6Gb96grCxupKM0Yvn8w/viewform?usp=sf_link"
+            id="grants">Grants</a></li>
+      </ul>
+      <br>
+      <p>
+        <a target="_blank" href="https://twitter.com/tabconf"><i class="fa fa-twitter" style="font-size:28px"></i></a>
+        <a target="_blank" href="https://discord.gg/TxFAWb3Adp"><i class="fa-brands fa-discord"
+            style="font-size:28px"></i></a>
+        <a target="_blank" href="https://t.me/tabconf"><i class="fa fa-telegram" style="font-size:28px"></i></a>
+      </p>
+    </header>
+
+    <section>
       {{ content }}
-      </section>
-      
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-  </body>
+    </section>
+
+  </div>
+  <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+  <script src="{{ "/assets/js/index.js" | relative_url }}"></script>
+</body>
+
 </html>
