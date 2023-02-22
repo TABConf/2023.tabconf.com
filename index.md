@@ -22,19 +22,6 @@ Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, 
   <0x1867386612b8d16e704c1dc8dcf7e43fcd20871a> OP_EQUAL
   <2022> OP_ADD
   <2023> OP_EQUAL
-
-  # Stack
-  0x544142436f…6c7573697665
-  0x544142436f…706572732c20
-  0x544142436f…70656f706c65
-  0x544142436f…207370616365
-  0x544142436f…2c2032303233
-  0x544142436f…474120555341
-  0x544142436f…696c64657273
-  0x544142436f…5469636b6574
-  0x1867386612…e43fcd20871a
-  1
-  1
 ```
 
 ## 4 Days of Building 🏗️
