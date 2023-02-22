@@ -28,8 +28,7 @@ Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, 
 
 <details>
 <summary>
-  
-## Builder Days 🔨  
+Builder Days 🔨  
 </summary>
   
 Builder's Day is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
@@ -39,9 +38,7 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 
 <details>
 <summary>
-  
-  ## Workshops 💻
-  
+Workshops 💻
 </summary>
 
   Workshops at TABConf are developer-focused and offer the chance to learn from experts in the field.
@@ -52,9 +49,7 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 
 <details>
 <summary>
-  
-  ## Villages 🏘️
-
+Villages 🏘️
 </summary>
 
   The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
@@ -64,7 +59,9 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 *** 
 
 <details>
-<summary><h2>Capture the Bitcoin (CTB) 🕵️</h2></summary>
+<summary>
+Capture the Bitcoin (CTB) 🕵️
+</summary>
 
   The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 
@@ -74,9 +71,7 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 
 <details>
 <summary>
-  
-  ## Chess Tournament ♟️
-
+Chess Tournament ♟️
 </summary>
 
   The chess tournament has a 100k sats buy-in and is a single-round elimination for winners.
@@ -87,9 +82,7 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 
 <details>
 <summary>
-  
-  ## Afterparties 🪅
-
+Afterparties 🪅
 </summary>
 
   Afterparties sponsored by ZEBEDEEE in the Shadowy Super Coders & Gamers Village and are always open to all attendees. Don't miss out on the fun!
