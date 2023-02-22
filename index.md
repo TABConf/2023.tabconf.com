@@ -68,7 +68,7 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 <details>
 <summary>
   
-  ## Capture the Bitcoin (CTB) 🕵️
+  <h2>## Capture the Bitcoin (CTB) 🕵️</h2>
   
 </summary>
 
