@@ -29,12 +29,10 @@ Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, 
 <details>
 <summary>
   
-  ## Builder Days 🔨
-  
+## Builder Days 🔨  
 </summary>
   
 Builder's Day is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
-  
 </details>
 
 *** 
