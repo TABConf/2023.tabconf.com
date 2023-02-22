@@ -66,11 +66,7 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 *** 
 
 <details>
-<summary>
-  
-  <h2>## Capture the Bitcoin (CTB) 🕵️</h2>
-  
-</summary>
+<summary><h2>Capture the Bitcoin (CTB) 🕵️</h2></summary>
 
   The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 
