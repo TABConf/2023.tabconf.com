@@ -2,7 +2,7 @@
 name: Workshop Submission
 about: Submit your workshop idea for TABConf 2023!
 title: ''
-labels: ''
+labels: 'Workshop'
 assignees: ''
 
 ---
