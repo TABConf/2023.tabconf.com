@@ -2,7 +2,7 @@
 name: Solo Talk Submission
 about: Submit your talk idea for TABConf 2023!
 title: ''
-labels: ''
+labels: 'Talk'
 assignees: ''
 
 ---
