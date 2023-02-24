@@ -13,12 +13,6 @@
 - 8 Sponsor Tickets.
 - Vendor table (two 6-foot tables).
 
-## Builder Day(s) Sponsor - 15k
-- Branding at Builders Day. 
-- Logo on website (sponsors & builders day page)
-- 8 Sponsor Tickets
-- Vendor table (6-foot tables)
-
 ## Lunch Sponsor - 6k (4/4 left)
 - Writing code burns more calories than you think.
 - Logo on website (sponsors page)
