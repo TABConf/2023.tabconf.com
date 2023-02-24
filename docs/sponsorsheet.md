@@ -7,13 +7,13 @@
 - 10 Sponsor Tickets.
 - Vendor table (two 6-foot tables).
 
-## Afterparty Sponsor- 15k (2/2 left)
+## Afterparty Sponsor - 15k (2/2 left)
 - Branding at the TABConf 2023 Offical Afterparty.
 - Logo on website (sponsors page)
 - 8 Sponsor Tickets.
 - Vendor table (two 6-foot tables).
 
-## Builders Day Sponsor- 10k (2/2 left) 
+## Builder Day(s) Sponsor - 15k
 - Branding at Builders Day. 
 - Logo on website (sponsors & builders day page)
 - 8 Sponsor Tickets
