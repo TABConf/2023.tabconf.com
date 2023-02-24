@@ -2,7 +2,7 @@
 name: Panel Discussion Submission
 about: Submit your panel discussion idea for TABConf 2023!
 title: ''
-labels: ''
+labels: 'Panel'
 assignees: ''
 
 ---
