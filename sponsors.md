@@ -55,13 +55,13 @@ Because we need your money pls give it to us! tytytytyty
   </div>
 </div>
 
-<!-- GS2 Blockstream -->
+<!-- GS2 Wolf 
 <div class="sponsor-card general-sponsor-card">
   <div class="sponsor-social-icons">
-    <a href="https://twitter.com/blockstream" target="_blank">
+    <a href="https://twitter.com/_WolfNYC" target="_blank">
       <img src="assets/img/social/twitter-icon.png" />
     </a>
-    <a href="https://blockstream.com/" target="_blank">
+    <a href="https://wolfnyc.com/" target="_blank">
       <img src="assets/img/social/web-icon.png" />
     </a>
   </div>
@@ -77,6 +77,7 @@ Because we need your money pls give it to us! tytytytyty
     </p>
   </div>
 </div>
+-->
 
 <!-- GS3 Start9 -->
 <div class="sponsor-card general-sponsor-card">
