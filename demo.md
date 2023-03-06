@@ -4,7 +4,7 @@
 
 <img align="center" width="500" src="assets/img/sponsors/voltage-logo.png">
 <br/> 
-Voltage is an infrastructure provider for Bitcoin. They bridge the gap between easy & fast cloud infrastructure and the security & privacy that Bitcoin requires for both Layer 1 & 2.
+Run Lightning Instantly. Enterprise-grade infrastructure for the Lightning Network. Scalability should be as fast and as easy as Lightning itself.
 
 ***
 
@@ -12,7 +12,7 @@ Voltage is an infrastructure provider for Bitcoin. They bridge the gap between e
 
 <img align="Center" width="400" src="assets/img/sponsors/wolf-logo.png">
 <br/>
-Wolf
+Accelerating Lightning. The future of decentralized finance is being built today, and it's being built on Bitcoin and Lightning.
 
 ***
 
@@ -28,7 +28,7 @@ Decentralize social media, and take back your data.
 
 <img align="center" width="400" src="assets/img/sponsors/cardcoins-logo.png">
 <br/>
-Cardcoins
+Buy Cryptocurrency with Cash. Use a prepaid gift card to convert your cash into digital currency at over 80,000 locations nationwide.
 
 ***
 
@@ -36,7 +36,7 @@ Cardcoins
 
 <img align="center" width="400" src="assets/img/sponsors/zebedee-logo.png">
 <br/>
-Zebedee
+Powering Real Economies In Virtual Worlds.
 
 ***
 
@@ -44,7 +44,7 @@ Zebedee
 
 <img align="center" width="400" src="assets/img/sponsors/start-9-logo.png">
 <br/>
-Start 9 
+Sovereign Computing. Eliminate the need for trusted third parties in the human/computer relationship. 
 
 ***
 
@@ -52,12 +52,12 @@ Start 9
 
 <img align="center" width="400" src="assets/img/sponsors/unchained-capital-logo.png">
 <br/>
-Unchained Capital
+Securing your future. Bitcoin - Native Financial Services
 
 ***
 
 ## Community Sponsor [🐦](https://twitter.com/nogoodnode) [🌐](https://www.nogood.store/)
 <img align="center" width="400" src="assets/img/sponsors/nogood-logo.png">
 <br/>
-NoGood
+NoGood is an illustrated crew of tech-savvy street kids united by their obsession with electronics.
 
