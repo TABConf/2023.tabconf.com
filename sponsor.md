@@ -1,4 +1,4 @@
-# Sponsors 
+# 2023 Sponsors
 
 ## Main Stage Sponsor [🐦](https://twitter.com/voltage_cloud) [🌐](https://voltage.cloud/)
 
