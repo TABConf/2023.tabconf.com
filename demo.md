@@ -9,8 +9,8 @@ Voltage is an infrastructure provider for Bitcoin. They bridge the gap between e
 
 ## Builder Days Sponsor [🐦](https://twitter.com/_WolfNYC) [🌐](https://wolfnyc.com/)
 
-<img align="Center" width="300" src="assets/img/sponsors/wolf-logo.png">
-Founded in 2014, Blockstream has been the leading provider of blockchain technologies and has remained on the forefront of work in cryptography and distributed systems.
+<img align="Center" width="400" src="assets/img/sponsors/wolf-logo.png">
+Wolf
 
 ***
 
@@ -18,6 +18,34 @@ Founded in 2014, Blockstream has been the leading provider of blockchain technol
 
 <img align="center" width="400" src="assets/img/sponsors/sphinx-logo.png">
 Decentralize social media, and take back your data.
+
+***
+
+## Village Sponsor [🐦](https://twitter.com/CardCoinsCo) [🌐](https://www.cardcoins.co/)
+
+<img align="center" width="400" src="assets/img/sponsors/cardcoins-logo.png">
+Cardcoins
+
+***
+
+## Village Sponsor [🐦](https://twitter.com/zebedeeio) [🌐](https://zebedee.io/)
+
+<img align="center" width="400" src="assets/img/sponsors/zebedee-logo.png">
+Zebedee
+
+***
+
+## General Sponsor [🐦](https://twitter.com/Start9Labs) [🌐](https://start9.com/)
+
+<img align="center" width="400" src="assets/img/sponsors/start-9-logo.png">
+Start 9 
+
+***
+
+## General Sponsor [🐦](https://twitter.com/unchainedcap) [🌐](https://unchained.com/)
+
+<img align="center" width="400" src="assets/img/sponsors/start-9-logo.png">
+Unchained Capital
 
 ***
 
