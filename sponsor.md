@@ -56,6 +56,14 @@ Securing your future. Bitcoin - Native Financial Services
 
 ***
 
+## General Sponsor [🐦](https://twitter.com/River) [🌐](https://river.com/)
+
+<img align="center" width="400" src="assets/img/sponsors/river-logo.png">
+<br/>
+Build your Bitcoin wealth. Buy and mine Bitcoin with 100% full reserve custody, and zero fees on recurring orders.
+
+***
+
 ## Community Sponsor [🐦](https://twitter.com/nogoodnode) [🌐](https://www.nogood.store/)
 <img align="center" width="400" src="assets/img/sponsors/nogood-logo.png">
 <br/>
