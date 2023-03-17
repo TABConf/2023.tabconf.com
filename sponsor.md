@@ -66,6 +66,14 @@ Build your Bitcoin wealth. Buy and mine Bitcoin with 100% full reserve custody, 
 
 ***
 
+## General Sponsor [🐦](https://twitter.com/mecee) [🌐](https://tvp.fund/)
+
+<img align="center" width="400" src="assets/img/sponsors/trammell-venture-partners-logo.png">
+<br/>
+Trammell Venture Partners is an Austin-based venture capital firm focused on investing in highly technical seed- and early-stage startups.
+
+***
+
 ## Community Sponsor [🐦](https://twitter.com/nogoodnode) [🌐](https://www.nogood.store/)
 <img align="center" width="400" src="assets/img/sponsors/nogood-logo.png">
 <br/>
