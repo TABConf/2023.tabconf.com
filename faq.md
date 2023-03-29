@@ -46,4 +46,8 @@
  
 Tickets started at $69.420 in November 2022 and are now selling for $121.00. Buy yours before the price goes up. 
 
+### What is TABConf 2023 refund policy ticket cost?
+
+The tickets for TABConf 2023 are <u>nonrefundable</u>. You can transfer your ticket to someone else if you cannot attend by emailing hello@tabconf.com and CCing the person you are transferring it to.
+
 *** 
