@@ -4,7 +4,7 @@ layout: default
 
 # Capture the Bitcoin Challenge (CTB)
 
-<img align="center" width="500" src="assets/img/nogood/NG_TABConf_Loading.jpg">
+<img align="center" width="400" src="assets/img/nogood/NG_TABConf_Loading.jpg">
 
 TABConf 2023 is bringing back the CTB challenge for its third year! 
 
