@@ -4,6 +4,8 @@ layout: default
 
 # Capture the Bitcoin Challenge (CTB)
 
+<img align="center" width="500" src="assets/img/nogood/NG_TABConf_Loading.jpg">
+
 TABConf 2023 is bringing back the CTB challenge for its third year! 
 
 This scavenger hunt will test your knowledge of Bitcoin and challenge you to think creatively.
