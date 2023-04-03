@@ -2,13 +2,14 @@
 layout: default
 ---
 
+# TABConf in the press: 
+
 You can contact the core orgs be emailing hello@tabconf.com <br>
 [Download TABConf assets from here](https://github.com/TABConf/2023.tabconf.com/tree/main/assets/img)<br>
 
 
 <img align="center" width="400" src="assets/img/nogood/512x512/NG_TABConf_Numpad_Color.png">
 
-# TABConf in the press: 
 ## 2023 Coverage
 
 Articles:
