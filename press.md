@@ -13,7 +13,7 @@ You can contact the core orgs be emailing hello@tabconf.com <br>
 ## 2023 Coverage
 
 Articles:
-- [https://www.coindesk.com/business/2022/10/16/bitcoin-and-stocks-took-a-gut-punch-the-builders-hardly-noticed/](https://www.coindesk.com/business/2022/10/16/bitcoin-and-stocks-took-a-gut-punch-the-builders-hardly-noticed/)
+- [https://www.coindesk.com/tech/2023/03/31/planners-of-bitcoin-conference-in-atlanta-move-to-open-source-their-agenda/](https://www.coindesk.com/tech/2023/03/31/planners-of-bitcoin-conference-in-atlanta-move-to-open-source-their-agenda/)
 
 Videos/ Podcasts:
 - [https://thriller.transistor.fm/episodes/tabconf-talk-with-michael-brandon](https://thriller.transistor.fm/episodes/tabconf-talk-with-michael-brandon)
