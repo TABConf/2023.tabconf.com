@@ -2,14 +2,14 @@
 layout: default
 ---
 
-You can contact the core orgs be emailing hello@tabconf.com
+You can contact the core orgs be emailing hello@tabconf.com <br>
 [Download TABConf assets from here](https://github.com/TABConf/2023.tabconf.com/tree/main/assets/img)<br>
 
 
 <img align="center" width="400" src="assets/img/nogood/512x512/NG_TABConf_Numpad_Color.png">
 
-TABConf in the press: 
-# 2023 Coverage
+# TABConf in the press: 
+## 2023 Coverage
 
 Articles:
 - [https://www.coindesk.com/business/2022/10/16/bitcoin-and-stocks-took-a-gut-punch-the-builders-hardly-noticed/](https://www.coindesk.com/business/2022/10/16/bitcoin-and-stocks-took-a-gut-punch-the-builders-hardly-noticed/)
@@ -17,7 +17,7 @@ Articles:
 Videos/ Podcasts:
 - [https://thriller.transistor.fm/episodes/tabconf-talk-with-michael-brandon](https://thriller.transistor.fm/episodes/tabconf-talk-with-michael-brandon)
 
-# 2022 Coverage
+## 2022 Coverage
 
 Articles:
 
@@ -52,7 +52,7 @@ Some Tweets from the community:
 - [https://twitter.com/beeforbacon1/status/1581653773310492672](https://twitter.com/beeforbacon1/status/1581653773310492672)
 - [https://twitter.com/CardCoinsCo/status/1579952555601580032](https://twitter.com/CardCoinsCo/status/1579952555601580032)
 
-# 2021 Coverage
+## 2021 Coverage
 
 - [https://bitcoinmagazine.com/culture/bitcoin-on-the-moon](https://bitcoinmagazine.com/culture/bitcoin-on-the-moon)
 
