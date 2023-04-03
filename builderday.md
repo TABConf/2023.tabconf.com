@@ -2,9 +2,11 @@
 layout: default
 ---
 
-# Builder Day
+# Builder Days
 
 Builder Day is our version of a laid back co working and a hackathon. Its purpose is to educate and onboard developers to different open source/ FOSS Bitcoin projects. Participating bitcoin FOSS projects will run programming at their own tables. As a participant, you get to pick your favorite project to hang out with and learn from.
+
+<img align="center" width="500" src="assets/img/nogood/512x512/NG_Stickers_BuildingBuilders_Color.png">
 
 Attendees can expect to learn a lot!
 
