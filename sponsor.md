@@ -26,7 +26,7 @@ Decentralize social media, and take back your data.
 
 ***
 
-## Bitcoin Development Fund Grant Sponsor [🐦](https://hrf.org/) [🌐](https://hrf.org/devfund)
+## Bitcoin Development Fund Grant Sponsor [🐦](https://twitter.com/HRF) [🌐](https://hrf.org/devfund)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/hrf-logo.png">
 <br/>
