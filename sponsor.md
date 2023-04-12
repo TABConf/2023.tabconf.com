@@ -42,6 +42,21 @@ Powering Real Economies In Virtual Worlds.
 
 ***
 
+## Coffee Sponsor [🐦](https://twitter.com/MarathonDH) [🌐](http://www.mara.com/)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/mara-logo.png">
+<br/>
+Marathon Digital Holdings is building one of the largest bitcoin mining operations in North America.
+
+***
+
+## General Sponsor [🐦](https://twitter.com/Strike) [🌐](https://strike.me/)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/strike-logo.png">
+<br/>
+A more connected financial world send and receive money instantly. Buy bitcoin. Get paid in bitcoin.
+***
+
 ## General Sponsor [🐦](https://twitter.com/Start9Labs) [🌐](https://start9.com/)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/start-9-logo.png">
