@@ -26,6 +26,14 @@ Decentralize social media, and take back your data.
 
 ***
 
+## Bitcoin Development Fund Grant Sponsor [🐦](https://hrf.org/) [🌐](https://hrf.org/devfund)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/hrf-logo.png">
+<br/>
+Human Rights Foundation launched a fund to support software developers who are making the Bitcoin network more private, decentralized, and resilient so that it can better serve as a financial tool for human rights activists, civil society organizations, and journalists around the world.
+
+***
+
 ## Village Sponsor [🐦](https://twitter.com/CardCoinsCo) [🌐](https://www.cardcoins.co/)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/cardcoins-logo.png">
