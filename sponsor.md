@@ -97,6 +97,14 @@ Trammell Venture Partners is an Austin-based venture capital firm focused on inv
 
 ***
 
+## General Sponsor [🐦](https://twitter.com/paywithmoon) [🌐](https://paywithmoon.com/)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/moon-logo.png">
+<br/>
+Moon is a platform that allows you to pay with crypto everywhere Visa® cards are accepted. Private. Secure. No fees.
+
+***
+
 ## Community Sponsor [🐦](https://twitter.com/nogoodnode) [🌐](https://www.nogood.store/)
 <img align="center" width="400" src="assets/img/sponsors/910x512/nogood-logo.png">
 <br/>
