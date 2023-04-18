@@ -58,11 +58,20 @@ Marathon Digital Holdings is building one of the largest bitcoin mining operatio
 
 ***
 
+## Grant Sponsor [🐦](https://twitter.com/fedibtc) [🌐](https://www.fedi.xyz/)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/fedi-logo.png">
+<br/>
+Fedi builds global Bitcoin adoption technology. Billions of people are unable to hold bitcoin on or off exchanges. Fedi, powered by Fedimint, allows anyone to use Bitcoin easily, securely, and collaboratively.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/Strike) [🌐](https://strike.me/)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/strike-logo.png">
 <br/>
 A more connected financial world send and receive money instantly. Buy bitcoin. Get paid in bitcoin.
+
 ***
 
 ## General Sponsor [🐦](https://twitter.com/Start9Labs) [🌐](https://start9.com/)
