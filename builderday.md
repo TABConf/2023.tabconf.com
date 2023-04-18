@@ -19,6 +19,10 @@ Builder Days is our version of a laid back co working and a hackathon. Its purpo
 
 If you want to run a Builder Day table for your FOSS Bitcoin project, you can open a GitHub issue [here](https://github.com/TABConf/2023.tabconf.com/issues/new?assignees=&labels=Builder+Day+Project&template=builder-day-project-submission.md&title=)!
 
+## Builder Days Sponsor
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png">
+
 ## Projects we had in 2022:
 
 - Bitcoin Dev Kit (BDK)
