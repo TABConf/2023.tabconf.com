@@ -21,3 +21,7 @@ Content in the Socratic Village will be a combination of Socratic Sessions with 
 The interactive panels will be driven by small group of experts on a specific subject matter. The panels should be two way, in that the panelists should expect to field questions from the community as well as have their own questions to stimulate discussion. Example topics for the panels include covenants, privacy on lightning, routing optimizations, liquidity advertisements, attacks on lightning, hot wallet management, how to build applications on lightning, pegging mechanisms, simplicity, DLCs, MEV, and how to lead a Socratic meetup.
 
 We’ll also have some technical trivia and other fun activities planned!
+
+## Village Sponsor
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/cardcoins-logo.png">
