@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# 2023 Sponsors
+# Sponsors
 
 Want to help us make the event possible, and get in front of the Bitcoin developer community? Read the [sponsor sheet](https://github.com/TABConf/2023.tabconf.com/blob/main/docs/sponsorsheet.md) and reach out to <hello@tabconf.com>.
 
