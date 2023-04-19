@@ -15,7 +15,7 @@ If you could like to apply for a TABConf 2023 Grant, please fill out the applica
 
 *** 
 
-<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdUvcpTNOCuxfg_vAilZwY7ViFml9P6Gb96grCxupKM0Yvn8w/viewform">TABConf Grant Program Application.</a>
+<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSdUvcpTNOCuxfg_vAilZwY7ViFml9P6Gb96grCxupKM0Yvn8w/viewform">TABConf Grant Program Application</a>
 
 ***
 
