@@ -1,9 +1,6 @@
 # BitDevs Socratic Village
 
-Sponsored by CardCoins, this year’s Socratic Village is a collaboration! This village is geared towards those interested in discussing and participating in the research and development of Bitcoin and related protocols.
-
-Thanks to Our Sponsor
-CardCoins
+This year’s Socratic Village is a collaboration! This village is geared towards those interested in discussing and participating in the research and development of Bitcoin and related protocols.
 
 ### What can I expect from the BitDevs Socratic Village?
 
@@ -13,9 +10,9 @@ Content in the Socratic Village will be a combination of Socratic Sessions with 
 
 ### Example themes for the sessions include:
 
-- bitcoin and lightning protocol development
-- novel layer 2 protocols
-- cryptography
+- bitcoin and lightning protocol development.
+- novel layer 2 protocols.
+- cryptography.
 - security and privacy.
 
 The interactive panels will be driven by small group of experts on a specific subject matter. The panels should be two way, in that the panelists should expect to field questions from the community as well as have their own questions to stimulate discussion. Example topics for the panels include covenants, privacy on lightning, routing optimizations, liquidity advertisements, attacks on lightning, hot wallet management, how to build applications on lightning, pegging mechanisms, simplicity, DLCs, MEV, and how to lead a Socratic meetup.
