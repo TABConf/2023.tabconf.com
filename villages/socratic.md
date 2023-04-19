@@ -24,4 +24,4 @@ We’ll also have some technical trivia and other fun activities planned!
 
 ## Village Sponsor
 
-<img align="center" width="400" src="assets/img/sponsors/910x512/cardcoins-logo.png">
+<img align="center" width="400" src="/assets/img/sponsors/910x512/cardcoins-logo.png">
