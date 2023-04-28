@@ -25,11 +25,6 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 
   The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
 
-
-### Capture the Bitcoin (CTB) 🕵️
-
-  The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
-
 ### Chess Tournament ♟️
 
   The chess tournament has a 100k sats buy-in and is a single-round elimination for winners.
