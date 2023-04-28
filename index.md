@@ -9,37 +9,30 @@ At TABConf, we bring together the best and brightest minds in the bitcoin world 
 Don't miss out on your chance to be a part of TABConf 2023. Join us in Atlanta, and we will make some magic happen! 🤘
 Read about our [history](./history.md) at TABConf. 
 
+*** 
+
 ## 4 Days of Building 🏗️
 
-#### Builder Days 🔨  
+### Builder Days 🔨  
   
 Builder's Day is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
-
-*** 
 
 ### Workshops 💻
 
   Workshops at TABConf are developer-focused and offer the chance to learn from experts in the field.
 
-*** 
-
 ### Villages 🏘️
 
   The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
 
-*** 
 
 ### Capture the Bitcoin (CTB) 🕵️
 
   The TABConf CTB scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
 
-*** 
-
 ### Chess Tournament ♟️
 
   The chess tournament has a 100k sats buy-in and is a single-round elimination for winners.
-
-*** 
 
 ### Afterparties 🪅
 
