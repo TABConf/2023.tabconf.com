@@ -25,10 +25,6 @@ Builder's Day is an opportunity to learn how to contribute to open-source projec
 
   The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
 
-### Chess Tournament ♟️
-
-  The chess tournament has a 100k sats buy-in and is a single-round elimination for winners.
-
 ### Afterparties 🪅
 
   Afterparties sponsored by ZEBEDEEE in the Shadowy Super Coders & Gamers Village and are always open to all attendees. Don't miss out on the fun!
