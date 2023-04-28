@@ -4,7 +4,8 @@ layout: default
 
 # Chess Tournament
 
-Winner take all Chess Tournament - Single round elimination for winners. <br>
+Winner take all Chess Tournament. <br>
+Single round elimination for winners. <br>
 Losers battle it out for worst player in a “loser stay bracket”. <br>
 The best and worst players at TABConf get bragging rights. <br>
 
