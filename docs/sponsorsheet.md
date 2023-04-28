@@ -25,7 +25,7 @@
 - 4 Sponsor Tickets.
 - Vendor table (6-foot table).
 
-## Coffee/ Water Sponsor - 4k (4/4 left)
+## Water Sponsor - 4k (4/4 left)
 - Countless TABConf attendees forever being in your debt.
 - Logo on website (sponsors page).
 - 4 Sponsor Tickets.
