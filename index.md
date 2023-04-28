@@ -13,21 +13,17 @@ Read about our [history](./history.md) at TABConf.
 
 ## 4 Days of Building 🏗️
 
-### Builder Days (September 6th/7th) 🔨  
+### Builder Days 🔨  
   
-Builder Days is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
+Builder Days (September 6th/7th) is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
 
-### Workshops (September 6th/7th) 💻
+### Workshops 💻
 
-  Workshops at TABConf are developer-focused and offer the chance to learn from experts in the field.
+Workshops (September 6th/7th) at TABConf are developer-focused and offer the chance to learn from experts in the field.
 
-### Villages (September 8th/9th)🏘️
+### Villages 🏘️
 
-  The conference will also feature villages: the Bitdevs Socratic village, PlebDev Village, and the Shadowy Super Coders & Gamers Village.
-
-### Afterparties 🪅
-
-  Afterparties sponsored by ZEBEDEEE in the Shadowy Super Coders & Gamers Village and are always open to all attendees. Don't miss out on the fun!
+Villages (September 8th/9th) and the Main stage: the Bitdevs Socratic village, PlebDev Village, NextGen Village, and the Shadowy Super Coders/ Gamers Village.
 
 *** 
 
