@@ -15,9 +15,9 @@ Builder Days is our version of a laid back co working and a hackathon. Its purpo
 - How does it benefit Bitcoin
 - How can you setup a dev environment to leverage the tools
 - How to contribute for the first time to the project
-- Above all else, Builder Day attendees can get all of their questions answered about their favorite projects straight from the source!
+- Above all else, Builder Days attendees can get all of their questions answered about their favorite projects straight from the source!
 
-If you want to run a Builder Day table for your FOSS Bitcoin project, you can [open a GitHub issue!](https://github.com/TABConf/2023.tabconf.com/issues/new?assignees=&labels=Builder+Day+Project&template=builder-day-project-submission.md&title=)!
+If you want to run a Builder Days table for your FOSS Bitcoin project, you can [open a GitHub issue!](https://github.com/TABConf/2023.tabconf.com/issues/new?assignees=&labels=Builder+Day+Project&template=builder-day-project-submission.md&title=)!
 
 ## Builder Days Sponsor
 
