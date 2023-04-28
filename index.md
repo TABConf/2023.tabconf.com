@@ -11,7 +11,7 @@ Read about our [history](./history.md) at TABConf.
 
 *** 
 
-# 4 Days of Building 🏗️
+# 4 Days of Building & Learning 🏗️
 
 ## Builder Days 🔨  
   
