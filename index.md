@@ -15,7 +15,7 @@ Read about our [history](./history.md) at TABConf.
 
 ### Builder Days 🔨  
   
-Builder's Day is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
+Builder Days is an opportunity to learn how to contribute to open-source projects in the Bitcoin. If you're interested in becoming a developer in the bitcoin industry, this day is not to be missed.
 
 ### Workshops 💻
 
