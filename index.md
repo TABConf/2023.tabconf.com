@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<a><img src="assets/img/hero.png"></a>
+<a><img src="assets/img/nogood/NG_TABConf_FullColor_OffWhite.png"></a>
 
 At TABConf, we bring together the best and brightest minds in the bitcoin world to share their insights, knowledge, and experience about the latest developments. From seasoned core devs to up-and-coming plebs.
 
