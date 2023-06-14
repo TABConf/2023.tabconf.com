@@ -11,6 +11,10 @@ Read about our [history](./history.md) at TABConf.
 
 *** 
 
+# [TABConf 2023 Schedule](https://github.com/orgs/TABConf/projects/1/views/2)
+
+*** 
+
 # 4 Days of Building & Learning 🏗️
 
 ## Builder Days 🔨  
