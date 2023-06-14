@@ -110,6 +110,14 @@ Trammell Venture Partners is an Austin-based venture capital firm focused on inv
 
 ***
 
+## General Sponsor [🐦](https://fulgur.ventures/) [🌐](https://twitter.com/fulgurventures)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/fulgur-ventures-logo.png">
+<br/>
+Fulgur Ventures invest in early stage startups focused on Bitcoin and the Lightning Network.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/paywithmoon) [🌐](https://paywithmoon.com/)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/moon-logo.png">
