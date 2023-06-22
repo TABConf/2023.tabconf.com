@@ -70,6 +70,14 @@ Fedi builds global Bitcoin adoption technology. Billions of people are unable to
 
 ***
 
+## Lunch Sponsor [🐦](https://twitter.com/TBD54566975) [🌐](https://www.tbd.website/)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/tbd-logo.png">
+<br/>
+TBD Makes the decentralized financial world accessible – for everyone.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/Strike) [🌐](https://strike.me/)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/strike-logo.png">
