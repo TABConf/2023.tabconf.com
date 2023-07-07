@@ -1,15 +1,17 @@
-# NextGen Village
+## Description
 
-NextGen Village is a fun interactive space for all ages! Come and go any time, play games, make art, and meet other bitcoiner families. It takes a village to raise the next generation of sovereign individuals!
+NextGen Village is a fun interactive space for bitcoiners of all ages. Meet other bitcoiner families and learn more about how bitcoin works with games, crafts, puzzles and our NextGen panels. Come and go any time. It takes a village to raise the next generation of sovereign individuals! 
 
-Are you bringing your kids? Do you have ideas for activities? Let the organizers know!
+## Activities
 
-Continuous interactive exhibits:
-- Bitcoin Boardgames:
-  - SHAmory
-  - Bitopoly
-  - Le coin de table
-- Button making
-- Interactive projection art
-- 3D puzzles
-- Bitcoin block assembly
+*Design your own buttons
+*Assemble 3D puzzles of "bitcoin blocks" out of a "mempool" of "transactions"
+*Learn how to play the board game "HODL up" and participate in a tournament
+*Play the card game "SHAmory" and bring home some books for the youngest bitcoiners
+*Interactive projection art
+*Learn how to design and print your own 3D models
+
+## Community call
+
+Are you bringing your kids? Do you have ideas for activities, games, panels or talks? Submit your ideas!
+
