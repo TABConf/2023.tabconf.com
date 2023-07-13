@@ -19,7 +19,7 @@ Read about our [history](./history.md) at TABConf.
 
 ## Builder Days 🔨  
   
-Builder Days (September 6th/7th) is an opportunity to learn how to contribute to Free open source Software projects in the Bitcoin. If you're interested in becoming a developer in the Bitcoin industry, this day is not to be missed.
+Builder Days (September 6th/7th) is an opportunity to learn how to contribute to Free Open Source Software in Bitcoin. If you're interested in becoming a developer in the Bitcoin industry, this day is not to be missed.
 
 ## Workshops 💻
 
