@@ -1,4 +1,4 @@
-# Shadowy Super Coders & Gamers Village
+# Lightning Village
 
 There’s no better way to experience the Lightning Network in action than to stack some sats playing video games. But that’s not all the Shadowy Super Coders & Gamers Village has to offer at TABConf 2023!
 
