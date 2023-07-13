@@ -23,9 +23,12 @@ Builder Days (September 6th/7th) is an opportunity to learn how to contribute to
 
 ## Workshops 💻
 
-Workshops (September 6th/7th) at TABConf are developer-focused and offer the chance to learn from experts in the field.
+Workshops (September 6th/7th)
 
-## Villages 🏘️
+
+## Villages & Main Stage 🏘️
+
+Villages & the Main Stage (September 8th/9th). 
 
 [Bitdevs Socratic village](./villages/socratic.md)
 
@@ -34,9 +37,6 @@ Workshops (September 6th/7th) at TABConf are developer-focused and offer the cha
 [Base58 Village](./villages/base58.md)
 
 [NexGen Village](./villages/nextgen.md)
-
-
-Villages & the Main Stage (September 8th/9th)
 
 *** 
 
