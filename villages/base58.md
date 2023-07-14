@@ -17,3 +17,7 @@
 
 ### Project Details
 This will be a village run and hosted by Base58, a bitcoin protocol academy. Last year we ran a live-coding demo at TABConf. This year, we'd like to do this in addition to more hands-on learning opportunities.
+
+## Village Community Sponsor
+
+<img align="center" width="400" src="/assets/img/sponsors/910x512/base58-logo.png">
