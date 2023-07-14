@@ -19,26 +19,37 @@ Read about our [history](./history.md) at TABConf.
 
 ## Builder Days 🔨  
   
-Builder Days (September 6th/7th) is an opportunity to learn how to contribute to Free Open Source Software in Bitcoin. If you're interested in becoming a developer in the Bitcoin industry, this day is not to be missed.
+Builder Days (September 6th/7th)
 
-[https://github.com/orgs/TABConf/projects/1/views/5]()
+[Builder Days Schedule](https://github.com/orgs/TABConf/projects/1/views/5)
 
 ## Workshops 💻
 
 Workshops (September 6th/7th)
 
+[Workshop Schedule](https://github.com/orgs/TABConf/projects/1/views/4)
 
 ## Villages & Main Stage 🏘️
 
 Villages & the Main Stage (September 8th/9th). 
 
-[Bitdevs Socratic village](./villages/socratic.md)
+[Main Stage Schedule](https://github.com/orgs/TABConf/projects/1/views/6)
+
+[Bitdevs Socratic Village](./villages/socratic.md)
+
+- [Bitdevs Socratic Schedule](https://github.com/orgs/TABConf/projects/1/views/7)
 
 [Lightning Village](./villages/lightning.md)
 
-[Base58 Village](./villages/base58.md)
+- [Lightning Schedule](https://github.com/orgs/TABConf/projects/1/views/8)
+
+[Base58 Protocol Village](./villages/base58.md)
+
+- [Base58 Protocol Schedule](https://github.com/orgs/TABConf/projects/1/views/9)
 
 [NexGen Village](./villages/nextgen.md)
+
+- [NextGen Schedule](https://github.com/orgs/TABConf/projects/1/views/10)
 
 *** 
 
