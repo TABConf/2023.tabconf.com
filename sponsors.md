@@ -78,6 +78,14 @@ TBD Makes the decentralized financial world accessible – for everyone.
 
 ***
 
+## Lunch Sponsor [🐦](https://twitter.com/layertwolabs) [🌐](https://layertwolabs.com/)
+
+<img align="center" width="400" src="assets/img/sponsors/910x512/layer-two-labs-logo.png">
+<br/>
+Our Goal - To make every transaction a Bitcoin txn. Drivechains — How we accomplish this.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/Strike) [🌐](https://strike.me/)
 
 <img align="center" width="400" src="assets/img/sponsors/910x512/strike-logo.png">
@@ -145,3 +153,8 @@ NoGood is an illustrated crew of tech-savvy street kids united by their obsessio
 <img align="center" width="400" src="assets/img/sponsors/910x512/pleblab-logo.png">
 <br/>
 PlebLab is a hackerspace and community accelerator located in Austin, Texas, we believe that collaboration and innovation are key to driving the growth and adoption of Bitcoin.
+
+## Community Sponsor [🐦](https://twitter.com/base58btc) [🌐](https://base58.info/)
+<img align="center" width="400" src="assets/img/sponsors/910x512/base58-logo.png">
+<br/>
+Base58⛓️🔓 is a Bitcoin protocol school. Our online and in-person courses are the perfect starting place for technical beginners looking to scratch the surface to even the most experienced devs looking to challenge themselves with a dive deep into the bitcoin protocol itself. 
