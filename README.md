@@ -1,4 +1,4 @@
-<img src="https://github.com/TABConf/2023.tabconf.com/blob/8fb021109dfffa206a290a252f91b5ddf5681afa/assets/img/nogood/512x512/NG_Stickers_Keys_BW.png">
+<a><img src="assets/img/nogood/stickers/NG_TABConf_FullColor_OffWhite.png"></a>
 
 A Technical Bitcoin Conference
 [Checkout the website for more info](https://2023.tabconf.com/)
