@@ -70,11 +70,11 @@ Fedi builds global Bitcoin adoption technology. Billions of people are unable to
 
 ***
 
-## Lunch Sponsor [🐦](https://twitter.com/TBD54566975) [🌐](https://www.tbd.website/)
+## Lunch Sponsor [🐦](https://twitter.com/c_equals) [🌐](https://cequals.xyz/)
 
-<a href="https://www.tbd.website/"><img align="center" width="400" src="assets/img/sponsors/910x512/tbd-logo.png"></a>
+<a href="https://cequals.xyz/"><img align="center" width="400" src="assets/img/sponsors/910x512/cequals-logo.png"></a>
 <br/>
-TBD Makes the decentralized financial world accessible – for everyone.
+Connecting the world through lightning-fast, low-cost global payments.
 
 ***
 
