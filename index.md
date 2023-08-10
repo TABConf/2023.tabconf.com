@@ -53,7 +53,7 @@ Villages & the Main Stage (September 8th/9th).
 
 ## TABconf Hackathon 🧑‍💻
 
-Sign-up (here)[https://tabconf.zbd.gg] for the TABconf Hackathon by (ZBD)[https://zebedee.io] x (PlebLab)[https://pleblab.com].
+Sign-up [here](https://tabconf.zbd.gg) for the TABconf Hackathon by [ZBD](https://zebedee.io) x [PlebLab](https://pleblab.com).
 10K+ in Prizes.
 
 
