@@ -94,6 +94,14 @@ A more connected financial world send and receive money instantly. Buy bitcoin. 
 
 ***
 
+## General Sponsor [🐦](https://twitter.com/lightspark) [🌐](https://www.lightspark.com/)
+
+<a href="https://www.lightspark.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/lightspark-logo.png"></a>
+<br/>
+Enabling an open payment protocol for the Internet via the Lightning Network.
+
+***
+
 ## General Sponsor [🐦](https://twitter.com/Start9Labs) [🌐](https://start9.com/)
 
 <a href="https://start9.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/start-9-logo.png"></a>
