@@ -11,7 +11,7 @@ Read about our [history](./history.md) at TABConf.
 
 *** 
 
-# [TABConf 2023 Schedule](https://github.com/orgs/TABConf/projects/1/views/2)
+# [TABConf 2023 Schedule](https://github.com/orgs/TABConf/projects/1)
 
 *** 
 
