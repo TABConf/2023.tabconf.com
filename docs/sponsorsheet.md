@@ -7,13 +7,7 @@
 - 10 Sponsor Tickets.
 - Vendor table (two 6-foot tables).
 
-## Afterparty Sponsor - 15k (2/2 left)
-- Branding at the TABConf 2023 Offical Afterparty.
-- Logo on website (sponsors page)
-- 8 Sponsor Tickets.
-- Vendor table (two 6-foot tables).
-
-## Lunch Sponsor - 6k (4/4 left)
+## Lunch Sponsor - 6k (2/4 left)
 - Writing code burns more calories than you think.
 - Logo on website (sponsors page)
 - 6 Sponsor Tickets
