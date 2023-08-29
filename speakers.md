@@ -15,7 +15,7 @@ Please be as detailed as possible when opening your issue because this is how ta
 Here is a great example issue you can check out: <a target="_blank" href="https://github.com/TABConf/2023.tabconf.com/issues/34">workshop example</a>, <a target="_blank" href="https://github.com/TABConf/2023.tabconf.com/issues/96">talk example</a>.
 
 Submissions that are chosen will be added to the TABConf 2023 GitHub Project, which is what we are going to use as our: 
-<a target="_blank" href="https://github.com/orgs/TABConf/projects/1/views/3">official schedule</a>.
+<a target="_blank" href="https://github.com/orgs/TABConf/projects/1">official schedule</a>.
 
 Here are some of the reasons we are trying this out for 2023.
 - We want to provide more transparency for the workshop, speaker, and panel selections. 
