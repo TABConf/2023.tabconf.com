@@ -1,5 +1,7 @@
 # BitDevs Socratic Village
 
+## [Bitdevs Socratic Village Schedule](https://github.com/orgs/TABConf/projects/1/views/7)
+
 This year’s Socratic Village is a collaboration! This village is geared towards those interested in discussing and participating in the research and development of Bitcoin and related protocols.
 
 ### What can I expect from the BitDevs Socratic Village?
