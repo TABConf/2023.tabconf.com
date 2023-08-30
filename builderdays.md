@@ -4,9 +4,10 @@ layout: default
 
 # Builder Days
 
+## [Schedule](https://github.com/orgs/TABConf/projects/1/views/5)
+
 Builder Days is our version of a laid back co working and a hackathon. Its purpose is to educate and onboard developers to different open source/ FOSS Bitcoin projects. Participating bitcoin FOSS projects will run programming at their own tables. As a participant, you get to pick your favorite project to hang out with and learn from.
 
-<img align="center" width="350" src="assets/img/nogood/512x512/NG_Stickers_BuildingBuilders_Color.png">
 
 ## Attendees can expect to learn a lot!
 
@@ -21,7 +22,7 @@ If you want to run a Builder Days table for your FOSS Bitcoin project, you can [
 
 ## Builder Days Sponsor
 
-<img align="center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png">
+<a href="https://wolfnyc.com/"><img align="center" width="400" src="assets/img/sponsors/910x512/wolf-logo.png"></a>
 
 ## Projects we had in 2022:
 
@@ -33,3 +34,5 @@ If you want to run a Builder Days table for your FOSS Bitcoin project, you can [
 - Hands-On Simplicity
 - Lily Wallet
 - SuredBits
+
+<img align="center" width="350" src="assets/img/nogood/512x512/NG_Stickers_BuildingBuilders_Color.png">
