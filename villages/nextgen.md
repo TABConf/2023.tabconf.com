@@ -1,3 +1,7 @@
+# NextGen Village
+
+## [NextGen Schedule](https://github.com/orgs/TABConf/projects/1/views/10)
+
 NextGen Village is a fun interactive space for bitcoiners of all ages. Meet other bitcoiner families and learn more about how bitcoin works with games, crafts, puzzles and our NextGen panels. Come and go any time. It takes a village to raise the next generation of sovereign individuals! 
 
 ## Activities
