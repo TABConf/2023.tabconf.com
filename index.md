@@ -17,45 +17,28 @@ Read about our [history](./history.md) at TABConf.
 
 # 4 Days of Building & Learning 🏗️
 
-## Builder Days 🔨  
+## Builder Days & Workshops 🔨  💻 - September 6th/7th
   
-Builder Days (September 6th/7th)
+[Builder Days & Workshops](./builderdays.md)
 
-[Builder Days Schedule](https://github.com/orgs/TABConf/projects/1/views/5)
+## Villages & Main Stage 🏘️ - September 8th/9th
 
-## Workshops 💻
-
-Workshops (September 6th/7th)
-
-[Workshop Schedule](https://github.com/orgs/TABConf/projects/1/views/4)
-
-## Villages & Main Stage 🏘️
-
-Villages & the Main Stage (September 8th/9th). 
-
-[Main Stage Schedule](https://github.com/orgs/TABConf/projects/1/views/6)
+[Main Stage](https://github.com/orgs/TABConf/projects/1/views/6)
 
 [Bitdevs Socratic Village](./villages/socratic.md)
 
-- [Bitdevs Socratic Schedule](https://github.com/orgs/TABConf/projects/1/views/7)
+[Base58 Protocol Village](./villages/base58.md)
 
 [Lightning Village](./villages/lightning.md)
 
-- [Lightning Schedule](https://github.com/orgs/TABConf/projects/1/views/8)
-
-[Base58 Protocol Village](./villages/base58.md)
-
-- [Base58 Protocol Schedule](https://github.com/orgs/TABConf/projects/1/views/9)
-
 [NexGen Village](./villages/nextgen.md)
 
-- [NextGen Schedule](https://github.com/orgs/TABConf/projects/1/views/10)
+***
 
-## TABconf Hackathon 🧑‍💻
+## TABConf 2023 Hackathon 🧑‍💻
 
 Sign-up [here](https://tabconf.zbd.gg) for the TABconf Hackathon by [ZBD](https://zebedee.io) x [PlebLab](https://pleblab.com).
 10K+ in Prizes.
-
 
 *** 
 
