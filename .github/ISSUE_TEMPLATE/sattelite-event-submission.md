@@ -10,6 +10,7 @@ assignees: ''
 # Description
 ### Event Description
 ### Date and time
+### Location
 ### Anything people should know before coming?
 ### Relevant Links
 
