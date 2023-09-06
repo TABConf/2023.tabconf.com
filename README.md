@@ -14,4 +14,4 @@ TABConf - The Atlanta Bitcoin Conference — an event for building communities, 
 - Workshops: Hands-on workshops that will teach you how to develop with the latest Bitcoin libraries and apps.
 - Builder Day: Meet the people who build your favorite open-source Bitcoin projects, and learn how to become a FOSS contributor yourself.
 - Capture the Bitcoin: This conference-wide scavenger hunt will test your knowledge of Bitcoin as you compete to be the first to steal real Bitcoin!
-- Chess Tournament: Chess tournament. 100k sats buy-in, winner, take all! Single-round elimination for winners. Losers battle it out for the worst player in a “loser stay bracket.”
+- Chess Tournament: Chess tournament. 100k sats buy-in, winner, take all! 
